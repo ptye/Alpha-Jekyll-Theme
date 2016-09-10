@@ -1,5 +1,6 @@
-name: Alpha
-description: Alphs template for Jekyll
+name: 葡萄园儿
+description: 葡萄园儿
+
 baseurl: '/ptye.github.io'
 
 url: "http://localhost:4000"
